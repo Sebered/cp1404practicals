@@ -1,9 +1,11 @@
 LENGTH = 6
 
+
 def main():
     password = get_valid_password()
     password_length = len(password)
     print_asterix(password_length)
+
 
 def get_valid_password():
     password = input("Enter a password: ")
@@ -12,8 +14,10 @@ def get_valid_password():
         password = input("Enter a password: ")
     return password
 
+
 def print_asterix(length):
     for i in range(length):
-        print("*", end= "")
+        print("*", end="")
+
 
 main()
