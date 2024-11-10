@@ -9,7 +9,7 @@ def main():
     languages = [python, ruby, visual_basic]
     print(python)
 
-    print("The dynamically typed languages are: ")
+    print("The dynamically typed languages.csv are: ")
     for item in languages:
         if item.typing == "Dynamic":
             print(item.name)
