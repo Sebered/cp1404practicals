@@ -1,8 +1,5 @@
 # CP1404 Practical Reflection
 
-Write short but thoughtful answers to each of the following.  
-Replace each `...` with your meaningful answer.
-
 ## What percentage of the lecture videos have you watched so far?
 
 50%
